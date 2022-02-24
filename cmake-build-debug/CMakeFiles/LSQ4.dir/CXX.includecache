@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Peyton/CLionProjects/LSQ4/Stack.h
+iostream
+-
+Stack.hpp
+C:/Users/Peyton/CLionProjects/LSQ4/Stack.hpp
+
+C:/Users/Peyton/CLionProjects/LSQ4/Stack.hpp
+
+C:/Users/Peyton/CLionProjects/LSQ4/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+Stack.h
+C:/Users/Peyton/CLionProjects/LSQ4/Stack.h
+
